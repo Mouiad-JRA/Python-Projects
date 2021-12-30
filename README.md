@@ -1,2 +1,2 @@
-# Python-Ptojects
+# Python-Projects
 Projects For Python
